@@ -1,5 +1,5 @@
-# Sudoku Solver
-## This directory contains two files:
+# Sudoku Solver Using Pygame
+### This directory contains two files:
 1. GUI.py
 2. solver.py
 
